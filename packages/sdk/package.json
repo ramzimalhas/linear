@@ -34,7 +34,7 @@
   "dependencies": {
     "@graphql-typed-document-node/core": "^3.1.0",
     "graphql": "^15.4.0",
-    "isomorphic-unfetch": "^3.1.0"
+    "isomorphic-unfetch": "^4.0.0"
   },
   "devDependencies": {
     "@graphql-codegen/introspection": "^1.18.0",
